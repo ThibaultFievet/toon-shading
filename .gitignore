@@ -7,8 +7,8 @@
 *.so
 bin/*
 obj/*
-aogl
-aogl_d
+ToonShading
+ToonShading_d
 
 # Packages #
 ############
@@ -47,4 +47,3 @@ Makefile
 Icon?
 ehthumbs.db
 Thumbs.db
-
